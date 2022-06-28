@@ -1,2 +1,2 @@
-TASK1# a Shell script that runs Python code.
-TASK2# a Python script that prints exactly "Programming is like building a multilingual puzzle
+TASK6# this source code to print Welcome to Holberton School!
+
