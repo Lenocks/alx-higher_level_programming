@@ -1,4 +1,2 @@
-Task0# random assigns number variables and sorts them in the following;
-        i) if greater than 0: POSITIVE
-       ii) if the number is 0: ZERO
-      iii) if the number is less than 0: NEGATIVE
+TASK1# if the last digit is greater than 5: is greater than 5. if the last digit is 0: the string and is 0
+if the last digit is less than 6 and not 0: the string and is less than 6 and not 0
